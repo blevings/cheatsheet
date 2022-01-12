@@ -61,6 +61,7 @@ tr:hover td {
 
 h2 {
     padding-top: 20px;
+    font-weight: bolder;
 }
 
 tr:nth-child(even) {
@@ -71,7 +72,8 @@ tr:nth-child(even) {
     font-family: "Lucida Console", Courier, monospace;
     color: orange;
     background-color: dimgray;
-    padding: 3px;
-    font-size: 14px !important;
+    padding: 4px;
+    font-size: 85% !important;
+    border-radius: 6px;
 
 }
